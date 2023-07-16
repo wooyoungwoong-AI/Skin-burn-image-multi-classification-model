@@ -10,4 +10,9 @@ It was made by selecting a Mobilenet model according to the limited number of im
 ![Flowchart](https://github.com/wooyoungwoong-AI/Skin-burn-image-multi-classification-model/assets/136695011/ea9be02e-c5ad-443f-a95f-0482c210f081)
 ***
 ### Development process
- * 아이디어 구상 및 구체화
+ * Initiate and materialize ideas
+ * Data collection and classification
+ * Model Adoption and Development
+ * Improve accuracy
+ * Mobile Application Development
+ * Final inspection
